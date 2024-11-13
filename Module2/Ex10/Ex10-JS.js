@@ -28,7 +28,7 @@ candidateList.sort((a,b) => {
 })
 
 console.log(`The winner is ${candidateList[0].name} with ${candidateList[0].votes}`)
-console.log("results:")
+console.log("Results:")
 for (let i = 0; i < candidateList.length; i++) {
   console.log(`${candidateList[i].name}: ${candidateList[i].votes}`)
 }
