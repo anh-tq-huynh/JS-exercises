@@ -6,7 +6,7 @@ btn.addEventListener("click", () => {
 })
 
 function calculation(calString) {
-  let split = calString.split('+').join('-').split('-').join(',').split('*').join(',').split('/').join(',').split(',')
+  let split = calString.split('+').join(',').split('-').join(',').split('*').join(',').split('/').join(',').split(',')
   console.log(split);
   let num1 = +split[0]
   let num2 = +split[1]
