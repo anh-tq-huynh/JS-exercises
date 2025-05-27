@@ -1,4 +1,4 @@
-# Metropolia UAS: First Year Procedural Programming Assignments
+# Metropolia UAS: First Year Procedural Programming II Assignments
 
 
 ## Project Overview
